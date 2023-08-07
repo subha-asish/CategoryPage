@@ -1,4 +1,4 @@
-# Internship Induction
+# FreeLance Project
 The app features a nested RecyclerView with horizontal scrolling inside a vertical list. It uses Retrofit and Picasso for API integration and image loading. OkHttp Interceptor ensures secure API access with authToken. A user-friendly interface allows seamless navigation through documents and images.
 The Nested RecyclerView App is an Android application that showcases a nested RecyclerView with horizontal scrolling inside a vertical list. The app fetches data from an API using Retrofit and displays images using Picasso. It also implements OkHttp Interceptor to ensure secure API access with an authToken.
 
